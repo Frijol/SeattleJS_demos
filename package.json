@@ -1,12 +1,12 @@
 {
-  "name": "demos",
+  "name": "Singapore_demos",
   "version": "0.0.0",
-  "description": "Tessel project",
+  "description": "demo code for Devfest.Asia presentation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "www.github.com/tessel/t2-cli",
+  "repository": "git://github.com/Frijol/Singapore_demos.git",
   "keywords": [
     "Tessel"
   ],
