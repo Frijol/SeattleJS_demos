@@ -1,8 +1,7 @@
-Demo code for Devfest.Asia presentation
+Demo code for SeattleJS presentation
 ======
-Devfest.Asia November 2016
 
-Accompanying slides are [here](https://docs.google.com/presentation/d/1sNKGyS73GbgQopQ9OrLhWA0snM1pNYLHfPHxWKwWY7s/edit?usp=sharing) including a quite long appendix that didn't make the talk – check it out if you'd like more detail on anything.
+Accompanying slides are [here](https://docs.google.com/presentation/d/1oC61AM3myKgnI8YxgqCJQD_yUZvWsyO73Go6RIVRxRM/edit?usp=sharing) including a quite long appendix that didn't make the talk – check it out if you'd like more detail on anything.
 
 ## Demos
 
